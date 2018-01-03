@@ -12,5 +12,5 @@ You can checkout this Pull Request to see the diff https://github.com/superfly/f
 Wormhole is an open source utility that securely connects two end-points. You can find it on GitHub [here](https://github.com/superfly/wormhole).
 
 <p align="center">
-  <img src="wormhole.png">
+  <img src="https://github.com/superfly/wormhole/raw/master/wormhole.png">
 </p>
